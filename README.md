@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadhifaah
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning something more about front end web developer role
+- 🌱 I’m currently learning something more about clustering projects
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me? Email: nadhifaaqillahusna@gmail.com
 
